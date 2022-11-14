@@ -1,5 +1,6 @@
 import { defaultTheme } from '@vuepress/theme-default';
 import { searchPlugin } from '@vuepress/plugin-search';
+import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 
 export default {
     lang: 'fr-FR',
@@ -19,6 +20,7 @@ export default {
                 },
             },
         }),
+        googleAnalyticsPlugin({ 'id': 'G-CNP5VLHFS3' }),
     ],
 
     theme: defaultTheme({
