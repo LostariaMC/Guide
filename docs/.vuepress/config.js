@@ -5,7 +5,7 @@ import { googleAnalyticsPlugin } from '@vuepress/plugin-google-analytics';
 export default {
     lang: 'fr-FR',
     title: 'Lostaria Guide',
-    description: 'TODO',
+    description: 'Ce guide contient l\'ensemble des informations essentielles concernant le serveur Minecraft Lostaria',
 
     head: [
         ['meta', { name: 'theme-color', content: '#6A5ACD' }],
