@@ -59,6 +59,6 @@ Le build est le passe-temps favoris de Lycheesis. Il a construit un bon nombre d
 
 ![](./assets_team/XEL0.jpg)
 
-D'une passion incontestable pour les maths, XEL0 réunit théorèmes et manuels pour vous construire les maps de vos rêves ! Il est notamment à l'origine de la réalisation du hub.
+D'une passion incontestable pour les maths, XEL0 réunit théorèmes et manuels pour construire les maps de vos rêves ! Il est notamment à l'origine de la réalisation du hub.
 
 > Twitter [@XEL0_](https://twitter.com/XEL0_)
