@@ -29,12 +29,21 @@ export default {
         contributorsText: "Contributeurs",
         logo: "/logo.png",
         navbar: [
-            { text: 'Site principal', link: 'https://lostaria.fr' },
-            { text: 'Consultation des maps', link: 'https://maps.lostaria.fr' },
-            { text: 'Discord', link: 'http://discord.lostaria.fr' }
+            { text: 'Statistiques', link: 'https://lostaria.fr' },
+            { text: 'Maps', link: 'https://maps.lostaria.fr' },
+            { text: 'Discord', link: 'http://discord.lostaria.fr' },
+            { text: 'Twitter', link: 'https://twitter.com/LostariaMC'},
         ],
         sidebar: [
             { link: "/README.md", text: "Introduction" },
+            { link: "/team.md", text: "L'équipe" },
+            {
+                text: "Les jeux",
+                collapsible: true,
+                children: [
+                    { link: "/minigames/koth.md", text: "KOTH" },
+                ]
+            },
         ]
     }),
 }
