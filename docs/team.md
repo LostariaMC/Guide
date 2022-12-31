@@ -9,7 +9,7 @@
 
 ![](./assets_team/Worsewarn.jpeg)
 
-A l'origine du projet, Worsewarn continue de développer Lostaria et de le maintenir depuis plus de 4 ans. Il est le créateur de la grande majorité des mini-jeux.
+À l'origine du projet, Worsewarn continue de développer Lostaria et de le maintenir depuis plus de 4 ans. Il est le créateur de la grande majorité des mini-jeux.
 
 <br/>
 
@@ -28,7 +28,7 @@ Erpriex développe des fonctionnalités internes au serveur et s'occupe égaleme
 
 ![](./assets_team/Lara.jpeg)
 
-Convaincue que le hub soit un véritable terrain de jeux, ElloWorld est à l'origine du développement de la discothèque, de la pêche, et du dé-à-coudre.
+Convaincue que le hub soit un véritable terrain de jeux, ElloWorld est à l'origine du développement de la discothèque, de la pêche, et du dé à coudre.
 
 > Twitter [@ElloWorld01](https://twitter.com/ElloWorld01)
 
