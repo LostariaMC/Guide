@@ -17,18 +17,18 @@ A l'origine du projet, Worsewarn continue de développer Lostaria et de le maint
 
 ![](./assets_team/Erpriex.png)
 
-Erpriex développe des fonctionnalités internes au serveur et s'occupe de l'infrastructure afin de garantir que Lostaria soit toujours fonctionnel et performant. Il est également le créateur du site de statistiques.
+Erpriex développe des fonctionnalités internes au serveur et s'occupe également de l'infrastructure afin de garantir que Lostaria soit toujours fonctionnel et performant. Il est au même titre à l'origine du développement du site de statistiques.
 
 > Twitter [@Erpriex](https://twitter.com/Erpriex)<br/>
 > Site web [erpriex.fr](http://erpriex.fr)
 
 <br/>
 
-### Lara
+### ElloWorld
 
 ![](./assets_team/Lara.jpeg)
 
-Convaincue que le hub soit un véritable terrain de jeux, Lara est à l'origine du développement de la discothèque, de la pêche, et du dé-à-coudre.
+Convaincue que le hub soit un véritable terrain de jeux, ElloWorld est à l'origine du développement de la discothèque, de la pêche, et du dé-à-coudre.
 
 > Twitter [@ElloWorld01](https://twitter.com/ElloWorld01)
 
@@ -45,11 +45,11 @@ lumin0u intervient sur le développement de Lostaria depuis 2 ans. Il a notammen
 <br/><br/>
 
 ## Les constructeurs
-### Nekou
+### Lycheesis
 
 ![](./assets_team/Nekou.jpg)
 
-Le build est le passe-temps favoris de Nekou. Il a construit un bon nombre de maps pour Lostaria, notamment en Pitchout et Runaway !
+Le build est le passe-temps favoris de Lycheesis. Il a construit un bon nombre de maps pour Lostaria, notamment en Pitchout et Runaway !
 
 > Twitter [@Yumi_lychee](https://twitter.com/Yumi_lychee)
 
