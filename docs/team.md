@@ -9,7 +9,7 @@
 
 ![](./assets_team/Worsewarn.jpeg)
 
-À l'origine du projet, Worsewarn continue de développer Lostaria et de le maintenir depuis plus de 4 ans. Il est le créateur de la grande majorité des mini-jeux.
+A l'origine du projet, Worsewarn continue de développer Lostaria et de le maintenir depuis plus de 4 ans. Il est le créateur de la grande majorité des mini-jeux.
 
 <br/>
 
@@ -24,12 +24,11 @@ Erpriex développe des fonctionnalités internes au serveur et s'occupe de l'inf
 
 <br/>
 
-### ElloWorld
+### Lara
 
 ![](./assets_team/Lara.jpeg)
 
-Convaincue que le hub soit un véritable terrain de jeu, Lara est à l'origine du développement de la discothèque, de la pêche, et du dé à coudre.rf
-
+Convaincue que le hub soit un véritable terrain de jeux, Lara est à l'origine du développement de la discothèque, de la pêche, et du dé-à-coudre.
 
 > Twitter [@ElloWorld01](https://twitter.com/ElloWorld01)
 
@@ -46,11 +45,11 @@ lumin0u intervient sur le développement de Lostaria depuis 2 ans. Il a notammen
 <br/><br/>
 
 ## Les constructeurs
-### Lycheesis
+### Nekou
 
 ![](./assets_team/Nekou.jpg)
 
-Le build est le passe-temps favori de Nekou. Il a construit un bon nombre de maps pour Lostaria, notamment en Pitchout et Runaway !
+Le build est le passe-temps favoris de Nekou. Il a construit un bon nombre de maps pour Lostaria, notamment en Pitchout et Runaway !
 
 > Twitter [@Yumi_lychee](https://twitter.com/Yumi_lychee)
 
